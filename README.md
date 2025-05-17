@@ -1,19 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=I'm+Ali!;Software+Engineer" alt="Typing SVG" />
+  <h1>Ali Nasser</h1>
+  <p>Software Engineer & ML Enthusiast</p>
+  
+  <a href="https://alinasser.info">
+    <img src="https://img.shields.io/badge/Website-alinasser.info-blue?style=flat-square" alt="Website" />
+  </a>
+  <a href="mailto:ali@alinasser.info">
+    <img src="https://img.shields.io/badge/Email-ali%40alinasser.info-red?style=flat-square" alt="Email" />
+  </a>
+  <a href="https://twitter.com/alijnxo">
+    <img src="https://img.shields.io/badge/Twitter-%40alijnxo-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </div>
 
 <div align="center">
-  
-  🌐 Check out my website: [alinasser.info](https://alinasser.info)
-  
-  📫 Reach me at: [ali@alinasser.info](mailto:ali@alinasser.info)
-  
-  🐦 Follow me on Twitter: [@alijnxo](https://twitter.com/alijnxo)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=itssali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itssali&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itssali&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
 </div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -47,7 +53,7 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itssali&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itssali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -58,4 +64,5 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itssali&color=blueviolet&style=flat-square&label=Profile+Views" />
+</div>
 </div>
