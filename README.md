@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Nasser&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Nasser&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&fontFamily=JetBrains%20Mono"/>
 
 <div align="center">
 
@@ -20,18 +20,6 @@
 </a>
 
 </div>
-
-<br/>
-
-## About
-
-```typescript
-const ali = {
-  focus: ["Full-Stack Development", "Machine Learning", "iOS/macOS Apps"],
-  building: "AI-powered tools that actually help people",
-  learning: ["MLOps", "System Design", "SwiftUI"],
-};
-```
 
 <br/>
 
@@ -58,9 +46,12 @@ const ali = {
 **Backend & Infrastructure**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AS2](https://img.shields.io/badge/AS2-005571?style=flat-square&logo=&logoColor=white)
 
 **AI/ML**
 
