@@ -66,13 +66,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itssali&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=itssali&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itssali&bg_color=0d1117&color=6366f1&line=6366f1&point=fff&area=true&area_color=6366f1&hide_border=true" width="95%"/>
 </div>
 
