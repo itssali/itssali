@@ -1,6 +1,6 @@
-<table>
+<table align="center">
 <tr><td align="center">
-<img alt="" height="1" width="760" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+<img alt="" height="1" width="1600" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
 <br/>
 <h1 align="center">Ali Nasser</h1>
@@ -18,10 +18,10 @@
 
 <h2 align="center">Projects</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
-<img alt="" height="1" width="372" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+<img alt="" height="1" width="800" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
 <br/>
 <picture>
@@ -44,7 +44,7 @@ Targets the Raspberry&nbsp;Pi&nbsp;5.
 <br/>
 </td>
 <td width="50%" align="center" valign="top">
-<img alt="" height="1" width="372" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+<img alt="" height="1" width="800" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
 <br/>
 <picture>
@@ -74,9 +74,9 @@ weather and system info on demand.
 
 <h2 align="center">GitHub</h2>
 
-<table>
+<table align="center">
 <tr><td align="center">
-<img alt="" height="1" width="760" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+<img alt="" height="1" width="1600" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
 <br/>
 <p align="center">
@@ -93,9 +93,9 @@ weather and system info on demand.
 </td></tr>
 </table>
 
-<table>
+<table align="center">
 <tr><td align="center">
-<img alt="" height="1" width="760" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+<img alt="" height="1" width="1600" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
 <br/>
 <p align="center">
