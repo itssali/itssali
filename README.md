@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
 <tr><td align="center">
 <br/>
 <h1 align="center">Ali Nasser</h1>
@@ -16,26 +16,26 @@
 
 <h2 align="center">Projects</h2>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 <br/>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itssali/itssali/main/assets/sila-mark-dark.png"/>
-<img alt="The Sila mark" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/sila-mark.png" width="84"/>
+<img alt="The Sila mark" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/sila-mark.png" width="76"/>
 </picture>
 <h3 align="center">Sila</h3>
-<p align="center"><em>صلة — a bond, a tie,<br/>a connection between people</em></p>
+<p align="center"><strong dir="rtl">صلة</strong></p>
+<p align="center"><em>a bond, a tie, a connection between people</em></p>
 <p align="center">
-A personal operating system whose interface<br/>
-assembles itself around each user. The shell<br/>
-renders from declarative specs, remembers<br/>
-exactly what you left open across reboots<br/>
-and updates, and targets the Raspberry&nbsp;Pi&nbsp;5.
+A personal operating system whose interface assembles itself
+around each user. The shell renders from declarative specs and
+remembers exactly what you left open across reboots and updates.
+Targets the Raspberry&nbsp;Pi&nbsp;5.
 </p>
 <p align="center"><code>Python</code> · <code>GTK4</code></p>
 <p align="center">
-<a href="https://alinasser.info/projects/sila"><img alt="View Sila" src="https://img.shields.io/badge/View%20project-D98A66?style=flat-square"/></a>
+<a href="https://alinasser.info/projects/sila"><img alt="View Sila" src="https://img.shields.io/badge/View%20project-D98A66?style=for-the-badge"/></a>
 </p>
 <br/>
 </td>
@@ -43,21 +43,23 @@ and updates, and targets the Raspberry&nbsp;Pi&nbsp;5.
 <br/>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itssali/itssali/main/assets/cli-mark-dark.png"/>
-<img alt="The AN Command Line mark" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/cli-mark.png" width="84"/>
+<img alt="The AN Command Line mark" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/cli-mark.png" width="76"/>
 </picture>
 <h3 align="center">AN Command Line</h3>
-<p align="center"><em>Getting around the shell,<br/>with fewer keystrokes</em></p>
+<p align="center"><strong><code>an</code></strong></p>
+<p align="center"><em>getting around the shell, with fewer keystrokes</em></p>
 <p align="center">
-Fuzzy directory browsing that copies the<br/>
-<code>cd</code> straight to your clipboard, Google<br/>
-queries without leaving the terminal, plus<br/>
-weather and system info on demand.<br/>
-Installs as <code>an</code>.
+Fuzzy directory browsing that copies the <code>cd</code> straight to
+your clipboard, Google queries without leaving the terminal, plus
+weather and system info on demand.
 </p>
 <p align="center"><code>Node.js</code> · <code>npm</code></p>
 <p align="center">
-<a href="https://github.com/itssali/command-line"><img alt="View AN Command Line on GitHub" src="https://img.shields.io/badge/View%20project-35322D?style=flat-square"/></a>
+<a href="https://github.com/itssali/command-line"><img alt="View AN Command Line on GitHub" src="https://img.shields.io/badge/View%20project-35322D?style=for-the-badge"/></a>
+</p>
+<p align="center">
 <a href="https://www.npmjs.com/package/an-command-line"><img alt="Latest version on npm" src="https://img.shields.io/npm/v/an-command-line?style=flat-square&label=npm&color=D98A66&labelColor=35322D"/></a>
+<a href="https://github.com/itssali/command-line"><img alt="Last commit" src="https://img.shields.io/github/last-commit/itssali/command-line?style=flat-square&label=updated&color=D98A66&labelColor=35322D"/></a>
 </p>
 <br/>
 </td>
@@ -66,30 +68,24 @@ Installs as <code>an</code>.
 
 <h2 align="center">GitHub</h2>
 
-<table>
+<table width="100%">
 <tr><td align="center">
 <br/>
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itssali&show_icons=true&bg_color=111010&title_color=D98A66&text_color=D3CDC2&icon_color=D98A66&border_color=35322D"/>
-<img alt="Ali Nasser's GitHub statistics" height="165" src="https://github-readme-stats.vercel.app/api?username=itssali&show_icons=true&bg_color=FBF9F5&title_color=8C3A1E&text_color=35322D&icon_color=D98A66&border_color=D3CDC2"/>
-</picture>
-<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=itssali&background=111010&border=35322D&stroke=35322D&ring=D98A66&fire=D98A66&currStreakLabel=D98A66&sideLabels=D3CDC2&currStreakNum=F4F1EB&sideNums=D3CDC2&dates=A8A29A"/>
-<img alt="Ali Nasser's contribution streak" height="165" src="https://streak-stats.demolab.com?user=itssali&background=FBF9F5&border=D3CDC2&stroke=D3CDC2&ring=D98A66&fire=8C3A1E&currStreakLabel=8C3A1E&sideLabels=35322D&currStreakNum=35322D&sideNums=35322D&dates=A8A29A"/>
+<img alt="Ali Nasser's contribution streak on GitHub" width="480" src="https://streak-stats.demolab.com?user=itssali&background=FBF9F5&border=D3CDC2&stroke=D3CDC2&ring=D98A66&fire=8C3A1E&currStreakLabel=8C3A1E&sideLabels=35322D&currStreakNum=35322D&sideNums=35322D&dates=A8A29A"/>
 </picture>
 </p>
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=itssali&bg_color=111010&color=D98A66&title_color=D98A66&line=D98A66&point=F4F1EB&area=true&area_color=8C3A1E&custom_title=Contributions"/>
-<img alt="Ali Nasser's contribution graph over the past year" width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itssali&bg_color=FBF9F5&color=8C3A1E&title_color=8C3A1E&line=D98A66&point=8C3A1E&area=true&area_color=D98A66&custom_title=Contributions"/>
-</picture>
+<a href="https://github.com/itssali?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/itssali?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=D98A66&labelColor=35322D"/></a>
+<a href="https://github.com/itssali/Journal-for-macOS"><img alt="Stars on Journal for macOS" src="https://img.shields.io/github/stars/itssali/Journal-for-macOS?style=for-the-badge&logo=github&logoColor=white&label=Journal%20stars&color=D98A66&labelColor=35322D"/></a>
 </p>
 <br/>
 </td></tr>
 </table>
 
-<table>
+<table width="100%">
 <tr><td align="center">
 <br/>
 <p align="center">
