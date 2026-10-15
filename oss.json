@@ -19,5 +19,12 @@
     "tagline": "your music, from the notch, menu bar or mini player",
     "summary": "The mini player forgot where you'd put it after a restart and shifted every time it switched views. Now it remembers its spot and stays put.",
     "language": "Swift"
+  },
+  "p0deje/Maccy": {
+    "name": "Maccy",
+    "icon": "assets/oss-maccy.png",
+    "tagline": "the lightweight clipboard manager for macOS",
+    "summary": "A settings warning ran off the edge of the window in nine languages, and an earlier fix hadn't worked. Found why and made it wrap.",
+    "language": "Swift"
   }
 }
