@@ -90,6 +90,7 @@ Tunnelblick 10.0 refused to import VPN configurations that keep their certificat
 </p>
 <p align="center"><code>Objective-C</code></p>
 <p align="center">
+<a href="https://github.com/Tunnelblick/Tunnelblick/pull/938"><img alt="Pull request 938, merged" src="https://img.shields.io/badge/PR%20%23938-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
 <a href="https://github.com/Tunnelblick/Tunnelblick/pull/937"><img alt="Pull request 937, merged" src="https://img.shields.io/badge/PR%20%23937-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
 <a href="https://github.com/Tunnelblick/Tunnelblick"><img alt="Stars on Tunnelblick" src="https://img.shields.io/github/stars/Tunnelblick/Tunnelblick?style=flat-square&label=stars&color=D98A66&labelColor=35322D"/></a>
 </p>
