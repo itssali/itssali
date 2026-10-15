@@ -72,6 +72,67 @@ weather and system info on demand.
 </tr>
 </table>
 
+<h2 align="center">Open Source</h2>
+<p align="center"><em>fixes I've landed in apps I use every day</em></p>
+
+<!-- OSS:START -->
+<table align="center">
+<tr>
+<td width="33%" align="center" valign="top">
+<img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+
+<br/>
+<a href="https://github.com/Tunnelblick/Tunnelblick"><img alt="The Tunnelblick icon" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/oss-tunnelblick.png" width="64"/></a>
+<h3 align="center">Tunnelblick</h3>
+<p align="center"><em>the OpenVPN client for macOS</em></p>
+<p align="center">
+Tunnelblick 10.0 refused to import VPN configurations that keep their certificate or key in a separate file. Tracked down the cause the day it was reported and fixed it.
+</p>
+<p align="center"><code>Objective-C</code></p>
+<p align="center">
+<a href="https://github.com/Tunnelblick/Tunnelblick/pull/937"><img alt="Pull request 937, merged" src="https://img.shields.io/badge/PR%20%23937-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
+<a href="https://github.com/Tunnelblick/Tunnelblick"><img alt="Stars on Tunnelblick" src="https://img.shields.io/github/stars/Tunnelblick/Tunnelblick?style=flat-square&label=stars&color=D98A66&labelColor=35322D"/></a>
+</p>
+<br/>
+</td>
+<td width="33%" align="center" valign="top">
+<img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+
+<br/>
+<a href="https://github.com/Saffsanity/sill"><img alt="The Sill icon" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/oss-sill.png" width="64"/></a>
+<h3 align="center">Sill</h3>
+<p align="center"><em>any Mac window, live on your iPhone or iPad</em></p>
+<p align="center">
+Remote Access never offered the Mac's Tailscale address when Tailscale came from the App Store, so devices away from home couldn't connect. The first outside pull request Sill merged.
+</p>
+<p align="center"><code>Swift</code></p>
+<p align="center">
+<a href="https://github.com/Saffsanity/sill/pull/98"><img alt="Pull request 98, merged" src="https://img.shields.io/badge/PR%20%2398-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
+<a href="https://github.com/Saffsanity/sill"><img alt="Stars on Sill" src="https://img.shields.io/github/stars/Saffsanity/sill?style=flat-square&label=stars&color=D98A66&labelColor=35322D"/></a>
+</p>
+<br/>
+</td>
+<td width="33%" align="center" valign="top">
+<img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+
+<br/>
+<a href="https://github.com/martinfekete10/Tuneful"><img alt="The Tuneful icon" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/oss-tuneful.png" width="64"/></a>
+<h3 align="center">Tuneful</h3>
+<p align="center"><em>your music, from the notch, menu bar or mini player</em></p>
+<p align="center">
+The mini player forgot where you'd put it after a restart and shifted every time it switched views. Now it remembers its spot and stays put.
+</p>
+<p align="center"><code>Swift</code></p>
+<p align="center">
+<a href="https://github.com/martinfekete10/Tuneful/pull/128"><img alt="Pull request 128, merged" src="https://img.shields.io/badge/PR%20%23128-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
+<a href="https://github.com/martinfekete10/Tuneful"><img alt="Stars on Tuneful" src="https://img.shields.io/github/stars/martinfekete10/Tuneful?style=flat-square&label=stars&color=D98A66&labelColor=35322D"/></a>
+</p>
+<br/>
+</td>
+</tr>
+</table>
+<!-- OSS:END -->
+
 <h2 align="center">GitHub</h2>
 
 <table align="center">

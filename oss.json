@@ -1,0 +1,23 @@
+{
+  "Tunnelblick/Tunnelblick": {
+    "name": "Tunnelblick",
+    "icon": "assets/oss-tunnelblick.png",
+    "tagline": "the OpenVPN client for macOS",
+    "summary": "Tunnelblick 10.0 refused to import VPN configurations that keep their certificate or key in a separate file. Tracked down the cause the day it was reported and fixed it.",
+    "language": "Objective-C"
+  },
+  "Saffsanity/sill": {
+    "name": "Sill",
+    "icon": "assets/oss-sill.png",
+    "tagline": "any Mac window, live on your iPhone or iPad",
+    "summary": "Remote Access never offered the Mac's Tailscale address when Tailscale came from the App Store, so devices away from home couldn't connect. The first outside pull request Sill merged.",
+    "language": "Swift"
+  },
+  "martinfekete10/Tuneful": {
+    "name": "Tuneful",
+    "icon": "assets/oss-tuneful.png",
+    "tagline": "your music, from the notch, menu bar or mini player",
+    "summary": "The mini player forgot where you'd put it after a restart and shifted every time it switched views. Now it remembers its spot and stays put.",
+    "language": "Swift"
+  }
+}
