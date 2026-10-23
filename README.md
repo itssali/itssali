@@ -82,6 +82,26 @@ weather and system info on demand.
 <img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
 <br/>
+<a href="https://github.com/Tunnelblick/Tunnelblick"><img alt="The Tunnelblick icon" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/oss-tunnelblick.png" width="64"/></a>
+<h3 align="center">Tunnelblick</h3>
+<p align="center"><em>the OpenVPN client for macOS</em></p>
+<p align="center">
+Tunnelblick 10.0 refused to import VPN configurations that keep their certificate or key in a separate file. Tracked down the cause the day it was reported and fixed it.
+</p>
+<p align="center"><code>Objective-C</code></p>
+<p align="center">
+<a href="https://github.com/Tunnelblick/Tunnelblick/pull/949"><img alt="Pull request 949, merged" src="https://img.shields.io/badge/PR%20%23949-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
+<a href="https://github.com/Tunnelblick/Tunnelblick/pull/939"><img alt="Pull request 939, merged" src="https://img.shields.io/badge/PR%20%23939-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
+<a href="https://github.com/Tunnelblick/Tunnelblick/pull/938"><img alt="Pull request 938, merged" src="https://img.shields.io/badge/PR%20%23938-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
+<a href="https://github.com/Tunnelblick/Tunnelblick/pull/937"><img alt="Pull request 937, merged" src="https://img.shields.io/badge/PR%20%23937-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
+<a href="https://github.com/Tunnelblick/Tunnelblick"><img alt="Stars on Tunnelblick" src="https://img.shields.io/github/stars/Tunnelblick/Tunnelblick?style=flat-square&label=stars&color=D98A66&labelColor=35322D"/></a>
+</p>
+<br/>
+</td>
+<td width="33%" align="center" valign="top">
+<img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+
+<br/>
 <a href="https://github.com/nicklockwood/SwiftFormat"><img alt="The SwiftFormat icon" src="https://github.com/nicklockwood.png?size=128" width="64"/></a>
 <h3 align="center">SwiftFormat</h3>
 <p align="center"><em>A command-line tool and Xcode Extension for formatting Swift code</em></p>
@@ -92,25 +112,6 @@ Add `--excluded-declaration-types` option to `docComments` rule
 <p align="center">
 <a href="https://github.com/nicklockwood/SwiftFormat/pull/2769"><img alt="Pull request 2769, merged" src="https://img.shields.io/badge/PR%20%232769-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
 <a href="https://github.com/nicklockwood/SwiftFormat"><img alt="Stars on SwiftFormat" src="https://img.shields.io/github/stars/nicklockwood/SwiftFormat?style=flat-square&label=stars&color=D98A66&labelColor=35322D"/></a>
-</p>
-<br/>
-</td>
-<td width="33%" align="center" valign="top">
-<img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
-
-<br/>
-<a href="https://github.com/Tunnelblick/Tunnelblick"><img alt="The Tunnelblick icon" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/oss-tunnelblick.png" width="64"/></a>
-<h3 align="center">Tunnelblick</h3>
-<p align="center"><em>the OpenVPN client for macOS</em></p>
-<p align="center">
-Tunnelblick 10.0 refused to import VPN configurations that keep their certificate or key in a separate file. Tracked down the cause the day it was reported and fixed it.
-</p>
-<p align="center"><code>Objective-C</code></p>
-<p align="center">
-<a href="https://github.com/Tunnelblick/Tunnelblick/pull/939"><img alt="Pull request 939, merged" src="https://img.shields.io/badge/PR%20%23939-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
-<a href="https://github.com/Tunnelblick/Tunnelblick/pull/938"><img alt="Pull request 938, merged" src="https://img.shields.io/badge/PR%20%23938-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
-<a href="https://github.com/Tunnelblick/Tunnelblick/pull/937"><img alt="Pull request 937, merged" src="https://img.shields.io/badge/PR%20%23937-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
-<a href="https://github.com/Tunnelblick/Tunnelblick"><img alt="Stars on Tunnelblick" src="https://img.shields.io/github/stars/Tunnelblick/Tunnelblick?style=flat-square&label=stars&color=D98A66&labelColor=35322D"/></a>
 </p>
 <br/>
 </td>
