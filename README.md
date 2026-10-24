@@ -82,6 +82,23 @@ weather and system info on demand.
 <img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
 <br/>
+<a href="https://github.com/home-assistant/core"><img alt="The core icon" src="https://github.com/home-assistant.png?size=128" width="64"/></a>
+<h3 align="center">core</h3>
+<p align="center"><em>:house_with_garden: Open source home automation that puts local control and privacy first.</em></p>
+<p align="center">
+Retry ElevenLabs setup when fetching voices fails
+</p>
+<p align="center"><code>Python</code></p>
+<p align="center">
+<a href="https://github.com/home-assistant/core/pull/188064"><img alt="Pull request 188064, merged" src="https://img.shields.io/badge/PR%20%23188064-merged-D98A66?style=flat-square&logo=github&logoColor=white&labelColor=35322D"/></a>
+<a href="https://github.com/home-assistant/core"><img alt="Stars on core" src="https://img.shields.io/github/stars/home-assistant/core?style=flat-square&label=stars&color=D98A66&labelColor=35322D"/></a>
+</p>
+<br/>
+</td>
+<td width="33%" align="center" valign="top">
+<img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+
+<br/>
 <a href="https://github.com/Tunnelblick/Tunnelblick"><img alt="The Tunnelblick icon" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/oss-tunnelblick.png" width="64"/></a>
 <h3 align="center">Tunnelblick</h3>
 <p align="center"><em>the OpenVPN client for macOS</em></p>
@@ -115,6 +132,11 @@ Add `--excluded-declaration-types` option to `docComments` rule
 </p>
 <br/>
 </td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <td width="33%" align="center" valign="top">
 <img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
@@ -133,13 +155,8 @@ A settings warning ran off the edge of the window in nine languages, and an earl
 </p>
 <br/>
 </td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <td width="33%" align="center" valign="top">
-<img alt="" height="1" width="800" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+<img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
 <br/>
 <a href="https://github.com/Saffsanity/sill"><img alt="The Sill icon" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/oss-sill.png" width="64"/></a>
@@ -156,7 +173,7 @@ Remote Access never offered the Mac's Tailscale address when Tailscale came from
 <br/>
 </td>
 <td width="33%" align="center" valign="top">
-<img alt="" height="1" width="800" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
+<img alt="" height="1" width="533" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/spacer.png"/>
 
 <br/>
 <a href="https://github.com/martinfekete10/Tuneful"><img alt="The Tuneful icon" src="https://raw.githubusercontent.com/itssali/itssali/main/assets/oss-tuneful.png" width="64"/></a>
